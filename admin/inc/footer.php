@@ -56,11 +56,9 @@
   })
 </script>
 <footer class="main-footer text-sm">
-        <strong>Copyright © salsTech company. 
+        <strong>Copyright © salsTech company.</strong>
         <!-- <a href=""></a> -->
-        </strong>
         <div class="float-right d-none d-sm-inline-block">
-          
         </div>
       </footer>
     </div>
